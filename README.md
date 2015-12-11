@@ -1,4 +1,4 @@
-# codeLibSystem(代码托管系统项目)
+# codeLibSystem-代码托管系统项目
 - 人数：3人
 - 耗时：约15天
 - 所用技术：
